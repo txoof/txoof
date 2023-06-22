@@ -1,5 +1,5 @@
  |![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=txoof&theme=gruvbox) |![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=txoof&theme=gruvbox&show_icons=true) |
-|-|-|                                                                 |
+|-|-|                                                                
 
 ## Who I Am
 
